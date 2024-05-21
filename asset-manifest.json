@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Payment_Gateway/static/css/main.212b55b4.css",
+    "main.js": "/Payment_Gateway/static/js/main.ce55f420.js",
+    "static/js/453.0da9cf8d.chunk.js": "/Payment_Gateway/static/js/453.0da9cf8d.chunk.js",
+    "index.html": "/Payment_Gateway/index.html",
+    "main.212b55b4.css.map": "/Payment_Gateway/static/css/main.212b55b4.css.map",
+    "main.ce55f420.js.map": "/Payment_Gateway/static/js/main.ce55f420.js.map",
+    "453.0da9cf8d.chunk.js.map": "/Payment_Gateway/static/js/453.0da9cf8d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.212b55b4.css",
+    "static/js/main.ce55f420.js"
+  ]
+}
