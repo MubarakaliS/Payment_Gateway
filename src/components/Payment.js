@@ -25,8 +25,8 @@ const Payment = (props) => {
     } else {
       if (window.Razorpay) {
         let option = {
-          key: "rzp_test_kXqvWeEDmZf3GE",
-          key_secret: "KUeNBDBBiCcN6vrn4Q9hDUJK",
+          key: "YOUR_KEY",
+          key_secret: "YOUR_SECRET KEY",
           amount: total * 100,
           currency: "INR",
           name: "Pay Counter App",
